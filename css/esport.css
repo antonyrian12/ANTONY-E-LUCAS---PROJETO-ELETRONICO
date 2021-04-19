@@ -1,0 +1,105 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fugaz+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fugaz+One&family=Zen+Dots&display=swap');
+
+body{
+margin: 0;
+max-width: 90%;
+text-align: center;
+
+}
+
+header{
+    font-family: 'Fugaz One', cursive;
+    background-image: url(../img/FUNDO\ IDEIA\ 2.png);
+    background-repeat: no-repeat;
+    background-color: #4e4e4e;
+    background-position: center;
+    background-size: cover;
+    padding: 67px;
+    width: 100%;
+    
+}    
+
+
+.font{
+    font-family: 'Nanum Gothic', sans-serif;
+    color: #313131;
+    position: relative;
+    top: 10px;
+    left: 70px;
+}
+header h1{
+    color: white;
+    padding: 0px;
+    width: 0;
+    text-align: center;
+
+}
+
+h1{
+    color: #4F4F4F;  
+    font-family: 'Fugaz One', cursive;
+    text-align: justify;
+    margin: 20px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    
+}
+
+img{
+    border-radius: 20px;
+    height: 250px;
+}
+
+.new{
+    font-family: 'Zen Dots', cursive;
+    width: 98%;
+    height: 40px;
+}
+
+
+footer{
+    font-family: 'Nanum Gothic', sans-serif;
+    background-image: url(../img/FUNDO\ IDEIA\ 2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 67px;
+    width: 100%;
+    
+}
+
+footer p{
+    color: white;
+}
+
+li{
+    display: inline-flex;
+    list-style-type: none;
+    text-align: center;
+    padding: 30px 20px;
+    
+
+}
+
+ul{
+   background-color: rgba(0, 0, 0, 0.349);
+}
+
+nav{
+    width: 90%;
+    position: absolute;
+    top: 113px;
+    left: 40px;
+    
+}
+
+body h1 p{
+    padding: 40px;
+}
+
